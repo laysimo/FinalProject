@@ -6,11 +6,11 @@ layout: default
 # This is a big header
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="C:\Users\Layton\.vscode\personal-site.github.io\static\imgs\comppic1.png" alt="Difficulty Vs Effectiveness"  width="500"/>
+<img src="static\imgs\comppic1.png" alt="Difficulty Vs Effectiveness"  width="500"/>
 <br>
-<img src="C:\Users\Layton\.vscode\personal-site.github.io\static\imgs\comppic2.png" alt="Bar Chart "  width="500"/>
+<img src="static\imgs\comppic2.png" alt="Bar Chart "  width="500"/>
 <br>
-<img src="C:\Users\Layton\.vscode\personal-site.github.io\static\imgs\comppic3.jpg" alt="Categories and Ratings"  width="500"/>
+<img src="static\imgs\comppic3.jpg" alt="Categories and Ratings"  width="500"/>
 
 ## Results Of The Data.
 
