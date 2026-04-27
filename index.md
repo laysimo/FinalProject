@@ -3,7 +3,7 @@
 layout: default
 ---
 
-# This is a big header
+# Practice Quizzes: Are They Helpful?
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
 <img src="static\imgs\comppic1.png" alt="Difficulty Vs Effectiveness"  width="500"/>
